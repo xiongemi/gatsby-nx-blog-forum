@@ -41,3 +41,7 @@ Thumbs.db
 /apps/blog/node_modules
 /apps/blog/public
 /apps/blog/.cache
+
+/apps/forum/node_modules
+/apps/forum/public
+/apps/forum/.cache

@@ -18,6 +18,15 @@
               }
             ]
           }
+        ],
+
+        "@typescript-eslint/naming-convention": [
+          "warn",
+          {
+            "selector": "interface",
+            "format": ["PascalCase"],
+            "prefix": ["Wp", "Fb"]
+          }
         ]
       }
     },

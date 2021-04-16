@@ -29,6 +29,19 @@
     "blog-e2e": {
       "tags": [],
       "implicitDependencies": ["blog"]
+    },
+    "shared-ui": {
+      "tags": []
+    },
+    "models": {
+      "tags": []
+    },
+    "forum": {
+      "tags": []
+    },
+    "forum-e2e": {
+      "tags": [],
+      "implicitDependencies": ["forum"]
     }
   }
 }
